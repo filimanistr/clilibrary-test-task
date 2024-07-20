@@ -5,7 +5,7 @@
 ## Как запустить
 
 ```bash
-git clone https://filimanistr/clilibrary-test-task
+git clone https://github.com/filimanistr/clilibrary-test-task
 cd clilibrary-test-task
 python src/main.py
 ```
