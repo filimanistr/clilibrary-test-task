@@ -1,0 +1,2 @@
+{"id": 2, "title": "A tour of C++", "author": "Bjarne Stroustrup", "year": "2022", "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"}
+{"id": 3, "title": "Python Asyncio", "author": "Matthew Fownler", "year": "2022", "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"}
